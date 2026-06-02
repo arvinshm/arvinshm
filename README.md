@@ -1,4 +1,4 @@
-Theoretical physicist at Stanford. In addition to physics, I work on AI capabilities and aligment some of which are linked here.
+Theoretical physicist at Stanford. I also work on AI capabilities and aligment some of which are linked here.
 
 I'm currently working on two themes:
 
