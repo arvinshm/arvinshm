@@ -1,4 +1,4 @@
-Theoretical physicist at Stanford. I have also started working on AI capabilities and aligment.
+Theoretical physicist at Stanford. Also dabbling in AI capabilities and aligment.
 
 Currently working on two themes:
 
